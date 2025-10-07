@@ -1,1 +1,3 @@
-# Power_BI_Project
+COMPANY SALES DATA ANALYSIS DASHBOARD
+Created a comprehensive dashboard using Power BI to explore and visualize the performance of various marketing campaigns.Transformed data from EXCEL databases and integrated it into Power BI, utilizing DAX (Data Analysis Expressions) to validate and enhance the data accuracy.Provided technical insights on optimal data utilization by recommending and implementing advanced technologies to the client.Analyzed data dimensions related to patient and provide actionable insights.Delivered a user-friendly dashboard that facilitated strategic decision-making and enhanced campaign effectiveness through data-driven insights.
+Screenshots:()
