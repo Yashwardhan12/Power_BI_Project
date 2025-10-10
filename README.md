@@ -15,6 +15,7 @@ The dashboard was built using the following tools and technologies:
 5. File Format - .pbix for development and .png for dashboard previews.
 
 Snapshot-
+
 (https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-10.png)
 (https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-1.png)
 (https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-2.png)
@@ -25,5 +26,3 @@ Snapshot-
 (https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-7.png)
 (https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-8.png)
 (https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-11.png)
-
-()
