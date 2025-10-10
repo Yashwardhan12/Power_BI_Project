@@ -16,3 +16,14 @@ The dashboard was built using the following tools and technologies:
 
 Snapshot-
 (https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-10.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-1.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-2.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-3.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-4.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-5.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-6.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-7.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-8.png)
+(https://github.com/Yashwardhan12/Power_BI_Project/blob/main/Screenshot-11.png)
+
+()
